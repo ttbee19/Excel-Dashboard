@@ -23,7 +23,7 @@ An interactive Excel dashboard that visualizes coffee sales data, providing insi
 - Slicers for interactive filtering
 
 ## How to Use
-1. Open the Excel file
+1. Open the Excel file "CoffeeOrdersDashboard"
 2. Use the slicers to filter:
    - Date ranges
    - Product categories
